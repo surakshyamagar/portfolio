@@ -1,0 +1,78 @@
+export const projects = [
+  {
+    title: "ProjectPulse",
+    category: "Full-Stack Project Intelligence & Risk Prediction",
+    description:
+      "A full-stack software project development platform for managing requirements, milestones, tasks, issues and API tests, with project analytics, deterministic technical review, project health monitoring and machine-learning-based risk prediction.",
+    technologies: [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Prisma",
+      "Python",
+      "Flask",
+      "Scikit-learn",
+      "Random Forest",
+      "Tailwind CSS",
+    ],
+    github: "#",
+    live: "#",
+    featured: true,
+  },
+  {
+    title: "FraudShield",
+    category: "Machine Learning & Full-Stack Application",
+    description:
+      "A fraud detection application combining a React frontend with a Python Flask backend and machine learning to analyze financial and insurance claim data.",
+    technologies: [
+      "React",
+      "Python",
+      "Flask",
+      "Scikit-learn",
+      "Random Forest",
+      "PostgreSQL",
+      "Tailwind CSS",
+    ],
+    github: "#",
+    live: "#",
+    featured: true,
+  },
+  {
+    title: "ShopEase",
+    category: "MERN E-Commerce Application",
+    description:
+      "A full-stack e-commerce application built with the MERN stack, featuring authentication, product and category management, shopping cart functionality and order management.",
+    technologies: [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Tailwind CSS",
+    ],
+    github: "#",
+    live: "#",
+    featured: true,
+  },
+  {
+    title: "LibraryHub",
+    category: "Full-Stack Library Management Application",
+    description:
+      "A full-stack library management application with a React and Vite frontend and a Node.js backend for managing books, authors, categories, users and borrowing records through a PostgreSQL database.",
+    technologies: [
+      "React",
+      "Vite",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "Prisma",
+      "PostgreSQL",
+      "Zod",
+    ],
+    github: "#",
+    live: "#",
+    featured: false,
+  },
+];
